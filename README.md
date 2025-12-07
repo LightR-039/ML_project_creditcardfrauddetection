@@ -208,7 +208,7 @@ pip install -r requirements.txt
 Open the main notebook:
 
 ```
-notebooks/full_pipeline.ipynb
+notebooks/name.ipynb
 ```
 
 Or run specific steps using:
