@@ -208,15 +208,10 @@ pip install -r requirements.txt
 Open the main notebook:
 
 ```
-notebooks/name.ipynb
+notebook/fraud_detection_full.ipynb
 ```
 
-Or run specific steps using:
 
-```
-python src/train_logistic.py
-python src/train_models.py
-```
 
 ---
 
