@@ -48,6 +48,31 @@ This repository contains a full end-to-end fraud detection pipeline using the **
 * 🚧 Limitations & future work
 ---
 
+## 📂 Project Structure
+
+```
+fraud-detection/
+│
+├── data/
+│   └──README.md                        
+│
+├── notebook/
+│   └── fraud_detection_full_pipeline.ipynb
+│
+├── excel/
+│   ├── LR_excel.xlsx
+│   └── README.md
+│
+├── outputs/
+│   ├── figures/
+│   ├──feature_importance/      
+│   └── models/         
+│
+├── README.md
+└── requirements.txt
+```
+
+---
 # 📊 Dataset
 
 **Source:** [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
@@ -218,3 +243,5 @@ notebook/fraud_detection_full.ipynb
 # 🙌 Acknowledgements
 
 Dataset by **Université Libre de Bruxelles (ULB)** Machine Learning Group.
+
+
